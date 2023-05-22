@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working **@Sabis For Eductational Services**
 
-- 🌱 I’m currently learning **dot Net , Angular**
-
 - 💬 Ask me about **dot Net , Angular**
 
 - 📫 How to reach me **aswly98@gmail.com**
