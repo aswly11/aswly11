@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 <h3 align="center">A Software Developer @Sabis</h3>
 
-- 🔭 I’m currently working For **@Sabis For Eductational Services**
+- 🔭 I’m currently working **@Sabis For Eductational Services**
 
 - 🌱 I’m currently learning **dot Net , Angular**
 
